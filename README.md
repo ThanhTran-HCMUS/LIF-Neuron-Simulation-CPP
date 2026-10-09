@@ -47,7 +47,7 @@ Kết quả mô phỏng cho thấy nơ-ron hoạt động đúng theo lý thuy�
 
 **Biểu đồ điện thế màng theo thời gian (Membrane Potential vs Time):**
 
-![LIF Model Graph](Link_Ảnh_Của_Bạn_Dán_Vào_Đây)
+![LIF Model Graph](assets/lif_simulation_graph.png)
 
 *(Biểu đồ minh họa các xung điện (Spikes) được bắn ra khi điện thế vượt ngưỡng -55mV)*
 
