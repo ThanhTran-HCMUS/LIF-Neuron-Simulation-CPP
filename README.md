@@ -31,7 +31,7 @@ git clone https://github.com/ThanhTran-HCMUS/LIF-Neuron-Simulation-CPP.git
 cd LIF-Neuron-Simulation-CPP
 
 # 3. Biên dịch mã nguồn bằng g++
-g++ main.cpp -o neuron_sim
+g++ src/main.cpp -o neuron_sim
 
 # 4. Chạy chương trình
 ./neuron_sim
@@ -47,7 +47,7 @@ Kết quả mô phỏng cho thấy nơ-ron hoạt động đúng theo lý thuy�
 
 **Biểu đồ điện thế màng theo thời gian (Membrane Potential vs Time):**
 
-![LIF Model Graph](assets/lif_simulation_graph.png)
+![LIF Model Graph](assets/poster_lif_simulation_detailed.png)
 
 *(Biểu đồ minh họa các xung điện (Spikes) được bắn ra khi điện thế vượt ngưỡng -55mV)*
 
